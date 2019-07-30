@@ -1,5 +1,5 @@
 # Git Commands
-Link for live preview: https://expensify-bilal-app.herokuapp.com
+
 git init - Create a new git repo
 git status - View the changes to your project code
 git add - Add files to staging area
